@@ -3,4 +3,4 @@
 
 # Flexblog
 
-> *Learning CSS Flexbox by building a responsive page.* <a href="https://amxanda.github.io/flexblog/">take a look</a>
+> *Learning CSS Flexbox by building a responsive page.* <a href="https://amxanda.github.io/origamid-flexblog/">take a look</a>
